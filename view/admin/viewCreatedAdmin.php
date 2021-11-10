@@ -1,0 +1,1 @@
+<h1 class="alert alert-success">Admin cree avec success</h1>
